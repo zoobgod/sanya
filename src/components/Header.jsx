@@ -1,4 +1,5 @@
 import { ArrowUpRight, Send } from "lucide-react";
+import { TELEGRAM_URL } from "../data/site";
 
 export default function Header() {
   return (
@@ -16,7 +17,7 @@ export default function Header() {
 
       <a
         className="topbar-cta"
-        href="https://t.me/"
+        href={TELEGRAM_URL}
         target="_blank"
         rel="noreferrer"
       >

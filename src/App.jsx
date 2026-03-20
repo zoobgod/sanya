@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { Route, Routes, useLocation } from "react-router-dom";
+import CookieBanner from "./components/CookieBanner";
 import HomePage from "./pages/HomePage";
 import ProjectPage from "./pages/ProjectPage";
 
@@ -21,6 +22,7 @@ export default function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/projects/:slug" element={<ProjectPage />} />
       </Routes>
+      <CookieBanner />
     </>
   );
 }

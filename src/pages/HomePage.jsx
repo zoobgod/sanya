@@ -6,9 +6,11 @@ import {
   Star,
   Zap,
 } from "lucide-react";
+import Footer from "../components/Footer";
 import Header from "../components/Header";
 import ProjectCard from "../components/ProjectCard";
 import { projects } from "../data/projects";
+import { TELEGRAM_URL } from "../data/site";
 
 const reveal = {
   hidden: { opacity: 0, y: 32 },
@@ -63,7 +65,7 @@ export default function HomePage() {
               </a>
               <a
                 className="button button-secondary"
-                href="https://t.me/"
+                href={TELEGRAM_URL}
                 target="_blank"
                 rel="noreferrer"
               >
@@ -183,7 +185,7 @@ export default function HomePage() {
             </p>
             <a
               className="button button-primary"
-              href="https://t.me/"
+              href={TELEGRAM_URL}
               target="_blank"
               rel="noreferrer"
             >
@@ -193,6 +195,8 @@ export default function HomePage() {
           </div>
         </motion.section>
       </main>
+
+      <Footer />
     </div>
   );
 }
