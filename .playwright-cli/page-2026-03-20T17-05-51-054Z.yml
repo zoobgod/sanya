@@ -1,0 +1,126 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "E ЕТНО Е" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: E
+      - generic [ref=e7]: ЕТНО Е
+    - navigation "Основная навигация" [ref=e8]:
+      - link "Обо мне" [ref=e9] [cursor=pointer]:
+        - /url: "#about"
+      - link "Проекты" [ref=e10] [cursor=pointer]:
+        - /url: "#projects"
+      - link "Контакт" [ref=e11] [cursor=pointer]:
+        - /url: "#contact"
+    - link "Telegram" [ref=e12] [cursor=pointer]:
+      - /url: https://t.me/
+      - img [ref=e13]
+      - generic [ref=e16]: Telegram
+      - img [ref=e17]
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - img [ref=e24]
+          - generic [ref=e27]: Digital Creator • Visual Energy • Telegram Voice
+        - heading "ЕТНО Е создает красочные digital-миры с быстрым ритмом и точной подачей." [level=1] [ref=e28]:
+          - text: ЕТНО Е создает
+          - generic [ref=e29]: красочные digital-миры
+          - text: с быстрым ритмом и точной подачей.
+        - paragraph [ref=e30]: Портфолио для автора, который собирает визуал, настроение и контент в один живой поток. Сайт подчеркивает динамику, вкус и яркий характер бренда.
+        - generic [ref=e31]:
+          - link "Смотреть проекты" [ref=e32] [cursor=pointer]:
+            - /url: "#projects"
+            - generic [ref=e33]: Смотреть проекты
+            - img [ref=e34]
+          - link "Перейти в Telegram" [ref=e36] [cursor=pointer]:
+            - /url: https://t.me/
+            - generic [ref=e37]: Перейти в Telegram
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]: ETNO E
+          - heading "bold visuals / fast ideas / human signal" [level=2] [ref=e41]
+        - generic [ref=e42]:
+          - img [ref=e43]
+          - generic [ref=e45]: Energy-driven storytelling
+        - generic [ref=e46]:
+          - img [ref=e47]
+          - generic [ref=e54]: Telegram-native presence
+        - generic [ref=e55]:
+          - img [ref=e56]
+          - generic [ref=e58]: Color-first creative direction
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - generic [ref=e61]: О creator
+        - heading "Минимализм в структуре, максимум энергии в ощущении." [level=2] [ref=e62]
+      - generic [ref=e63]:
+        - article [ref=e64]:
+          - paragraph [ref=e65]: ЕТНО Е работает на стыке контента, визуального кода и digital харизмы. Здесь важны настроение, ритм и узнаваемая подача.
+        - article [ref=e66]:
+          - generic [ref=e67]:
+            - strong [ref=e68]: "01"
+            - generic [ref=e69]: Яркая авторская эстетика
+          - generic [ref=e70]:
+            - strong [ref=e71]: "02"
+            - generic [ref=e72]: Живой Telegram-формат
+          - generic [ref=e73]:
+            - strong [ref=e74]: "03"
+            - generic [ref=e75]: Креативные проекты с характером
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - generic [ref=e78]: Selected Projects
+        - heading "Каждый кейс открывается на своей странице." [level=2] [ref=e79]
+      - generic [ref=e80]:
+        - article [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e83]: Контент-система
+            - generic [ref=e84]: "2026"
+          - generic [ref=e85]:
+            - heading "Signal Burst" [level=3] [ref=e86]
+            - paragraph [ref=e87]: Экспрессивная серия digital-форматов для запуска новой визуальной волны. Плейсхолдер под будущий кейс с реальными метриками и материалами.
+          - generic [ref=e88]:
+            - generic [ref=e89]: Creative Direction
+            - generic [ref=e90]: Motion Moodboard
+            - generic [ref=e91]: Campaign Identity
+          - link "Открыть страницу проекта" [ref=e92] [cursor=pointer]:
+            - /url: /projects/signal-burst
+            - generic [ref=e93]: Открыть страницу проекта
+            - img [ref=e94]
+        - article [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e99]: Авторский канал
+            - generic [ref=e100]: "2026"
+          - generic [ref=e101]:
+            - heading "Telegram Heat" [level=3] [ref=e102]
+            - paragraph [ref=e103]: Плейсхолдер для проекта, посвященного упаковке Telegram-канала, рубрикам, визуальному языку и контент-механикам роста.
+          - generic [ref=e104]:
+            - generic [ref=e105]: Channel Strategy
+            - generic [ref=e106]: Visual System
+            - generic [ref=e107]: Content Experiments
+          - link "Открыть страницу проекта" [ref=e108] [cursor=pointer]:
+            - /url: /projects/telegram-heat
+            - generic [ref=e109]: Открыть страницу проекта
+            - img [ref=e110]
+        - article [ref=e113]:
+          - generic [ref=e114]:
+            - generic [ref=e115]: Креативная коллаборация
+            - generic [ref=e116]: "2026"
+          - generic [ref=e117]:
+            - heading "Neon Ritual" [level=3] [ref=e118]
+            - paragraph [ref=e119]: Заглушка под коллаборационный проект с мощной айдентикой, digital-артом и живой эмоциональной подачей.
+          - generic [ref=e120]:
+            - generic [ref=e121]: Art Direction
+            - generic [ref=e122]: Launch Visuals
+            - generic [ref=e123]: Narrative Concept
+          - link "Открыть страницу проекта" [ref=e124] [cursor=pointer]:
+            - /url: /projects/neon-ritual
+            - generic [ref=e125]: Открыть страницу проекта
+            - img [ref=e126]
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - generic [ref=e132]: Let's connect
+        - heading "Telegram может быть главным входом в бренд." [level=2] [ref=e133]
+      - paragraph [ref=e134]: Пока ссылки и проекты стоят как плейсхолдеры. Когда дашь реальные материалы, сюда легко встроить кейсы, медиа, метрики и живые публикации.
+      - link "Открыть Telegram" [ref=e135] [cursor=pointer]:
+        - /url: https://t.me/
+        - generic [ref=e136]: Открыть Telegram
+        - img [ref=e137]
